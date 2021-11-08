@@ -1,0 +1,33 @@
+.p1{
+    margin-left: 80px;
+    margin-right:80px ;
+    margin-top: 50px;
+    width: auto;
+    height: 730px;
+    border:1px solid #000;
+    border-color: black;
+}
+.p2{
+    padding: 15px;
+    font-size: 40px;
+}
+.p3{
+    display: flex;
+    margin: 10px;
+}
+.p4{
+    margin-left:120px;
+    display: inline-flex;
+    padding: 5px;
+}
+.p5{
+    padding: 5px;
+    display: inline-flex;
+}
+.p6{
+    margin: 5px;
+    display: inline-flex
+}
+.p7{
+    margin-left: 40px;
+}
